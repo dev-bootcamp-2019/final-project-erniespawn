@@ -3346,52 +3346,14 @@
   },
   "networks": {
     "4": {
-      "events": {
-        "0x6aa1f56ab57a649e2bff17a1af92d994107a6a04b63fe9eba12e5d1291682d78": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": false,
-              "name": "name",
-              "type": "string"
-            },
-            {
-              "indexed": false,
-              "name": "voteCount",
-              "type": "uint256"
-            }
-          ],
-          "name": "ReferendumResult",
-          "type": "event",
-          "signature": "0x6aa1f56ab57a649e2bff17a1af92d994107a6a04b63fe9eba12e5d1291682d78"
-        },
-        "0x41dc5a8dfa560fa57d5c6d6aa00e9ff66b5942ae4185b2966a5ffecead4daac6": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": false,
-              "name": "name",
-              "type": "string"
-            }
-          ],
-          "name": "ElectionResult2",
-          "type": "event",
-          "signature": "0x41dc5a8dfa560fa57d5c6d6aa00e9ff66b5942ae4185b2966a5ffecead4daac6"
-        }
-      },
-      "links": {},
-      "address": "0xa0f1541ba5FE3Ce3d30A0AA4073b94583Af5b5b6",
-      "transactionHash": "0xd3fe46b82df2e18e0ec29cda6eeb9b8785b51de5e4127d1f0b5671057c1c0d51"
-    },
-    "1548153218870": {
       "events": {},
       "links": {},
-      "address": "0xE889cf2F9C4ff9a257688C269C621a286Ca3a7F3",
-      "transactionHash": "0x594f8b820a2a90a814cac235fab2b81ba085ac072b6213d8b838ff4c1c51449c"
+      "address": "0x0e37DC8FF58773cB4BC3f499bF2e88Cc216b8C43",
+      "transactionHash": "0x27cb5750f1049f6545b4e9c2409c56cc343942ce5c88e923848c328186139c90"
     }
   },
   "schemaVersion": "3.0.0",
-  "updatedAt": "2019-01-25T13:51:58.427Z",
+  "updatedAt": "2019-01-25T16:52:58.396Z",
   "devdoc": {
     "methods": {}
   },

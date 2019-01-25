@@ -28,11 +28,17 @@ Steps:
 There are a total of  test cases have been written Referendum.sol.
 
 Test1 = Verify the name of this referendum
+
 Test2 = Verify the vote is Stay in EU
+
 Test3 = Verify the vote is Leave EU
+
 Test4 = User vote for Stay in EU
+
 Test5 = User vote for Leave EU
+
 Test6 = Pause the contract and try to vote but must failed
+
 Test7 = Resume the contract and try to vote successfully
 
 Run `truffle test` in the root directory to run the test cases.
