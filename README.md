@@ -42,3 +42,19 @@ Test6 = Pause the contract and try to vote but must failed
 Test7 = Resume the contract and try to vote successfully
 
 Run `truffle test` in the root directory to run the test cases.
+
+
+##  IPFS url connected to Rinkeby testnet.
+
+https://gateway.ipfs.io/ipfs/QmdGLzEgg215PncXdqTwLibdb8ARwshWto6JsQr6SYFeYg/
+
+
+1. In the root directory created dist3 directory
+2. Copy all json from build/contract/* to dist3/.
+3. Copy all src/* to dist3/*
+4. Install IPFS.
+5. In another terminal type "ipfs init"
+6. Then run "ipfs daemon" 
+7. In another terminal cd into dist3 directory
+8. Add all the files, "ipfs add -r ."
+9. Run ipfs "ipfs name publish (Hash of the dist3 director)"
