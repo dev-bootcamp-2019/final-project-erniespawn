@@ -1,6 +1,5 @@
 //require('dotenv').config();
 var HDWalletProvider = require("truffle-hdwallet-provider");
-var mnemonic = "iron debris caught stone chalk lyrics cheap approve uniform bonus vivid nothing"; // 12 word mnemonic
 //var provider = new HDWalletProvider(mnemonic, "http://localhost:8545");
 
 
